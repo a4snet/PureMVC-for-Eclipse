@@ -1,4 +1,4 @@
-PureMVC-for-Eclipse
+PureMVCn for Eclipse
 ===================
 
 PureMVC for Eclipse
